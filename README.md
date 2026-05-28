@@ -11,9 +11,6 @@
 > Infraestrutura 3-tier completa e modular na AWS, provisionada via Terraform.
 > ALB público + EC2 Auto Scaling em subnets privadas + RDS MySQL isolado.
 
-Infraestrutura 3-tier completa e modular na AWS, provisionada via Terraform.
-ALB público + EC2 Auto Scaling em subnets privadas + RDS MySQL isolado.
-
 
 ℹ️ Status do projeto
 
